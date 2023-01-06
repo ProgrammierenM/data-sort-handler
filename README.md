@@ -1,4 +1,4 @@
-# 3 Data Sort Handler mit HTML Data Attributes
+# Data Sort Handler mit HTML Data Attributes
 
 HTML DOM Manipulation mit Data Attributes um ganze HTML Elemente anders zu positionieren oder zu sortieren. Wir programmieren ein JavaScript Modul welche alle Elemente selektiert, sortiert und platziert. Happy Coding!
 
